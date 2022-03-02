@@ -1,7 +1,6 @@
 # ------------------------------------------------------------------------------------------------------------
 #
 # PERSONAL $HOME/.bash_profile
-# By Raunak Kathuria
 #
 # This file is normally read by interactive shells only.
 # Here is the place to define your aliases, functions and
